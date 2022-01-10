@@ -1,0 +1,10 @@
+<resources>
+    <!-- Photo taking  -->
+    <string name="take_photos_success">Photo is successfully taken </string>
+    <string name="video">Video</string>
+    <string name="take_photo">Photo</string>
+    <string name="tips">Tips</string>
+    <string name="delete">delete</string>
+    <string name="submit">OK</string>
+    <string name="waiting">waiting</string>
+</resources>
